@@ -14,3 +14,6 @@ You need to download the [Attiny support](https://code.google.com/archive/p/ardu
 You have to load the Arduino Attiny84 boot loader to your ATtiny84 micro controller. 
 Make sure that you download the following [support libraries](https://github.com/bdureau/AltimetersLibs) tinyBMP085, tinyWireM, tinyWireS and copy them to the Arduino library folder. To compile it you need to choose the Attiny 84 and the correct USB port.
 You will need to use an AVR programmer and an adapter to program the microcotroller, refer to the documentation.
+
+# Using other pressure sensors
+Unfortunatly it is not possible to use a bmp280 sensor, I have ported the library but unfortunatly the attiny 85 has not enought on board memory.
