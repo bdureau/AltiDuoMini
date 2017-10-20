@@ -10,7 +10,7 @@ The latest revision uses a BMP180 pressure sensor, however the code for both boa
 
 # Building the code
 You will need to download the Arduino ide from the [Arduino web site](https://www.arduino.cc/).
-You need to download the [Attiny support] (https://code.google.com/archive/p/arduino-tiny/downloads) and install it to your Arduino environement.
+You need to download the [Attiny support](https://code.google.com/archive/p/arduino-tiny/downloads) and install it to your Arduino environement.
 You have to load the Arduino Attiny84 boot loader to your ATtiny84 micro controller. 
 Make sure that you download the following support libraries tinyBMP085, tinyWireM, tinyWireS and copy them to the Arduino library folder. To compile it you need to choose the Attiny 84 and the correct USB port.
 You will need to use an AVR programmer and an adapter to program the microcotroller, refer to the documentation.
