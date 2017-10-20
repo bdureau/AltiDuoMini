@@ -1,5 +1,5 @@
 # AltiDuoMini
-Firmware for the AltiDuo Mini altimeter using an ATtiny 84  microcontroller
+Firmware for the [AltiDuo Mini](http://rocket.payload.free.fr/index.php?option=com_content&view=article&id=12&Itemid=10&lang=en) altimeter using an ATtiny 84  microcontroller
 This is another version of the Alti Duo that is using an Attiny 84 processor. It is smaller than the other AltiDuo that is using an ATMega 328. However unlike the big AltiDuo it cannot connect to the USB port so to program it you have to remove the ship.
 
 The original version uses a BMP085 pressure sensor.           
