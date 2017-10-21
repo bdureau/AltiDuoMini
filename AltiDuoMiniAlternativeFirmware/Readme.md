@@ -1,0 +1,1 @@
+This file contains alternative firmware that can be used by the AltiDuoMini board.
