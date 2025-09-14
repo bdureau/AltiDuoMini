@@ -20,5 +20,5 @@ Unfortunatly it is not possible to use a bmp280 sensor, I have ported the librar
 
 # Quick altimeter Presentation 
 You can take a look at the following YouTube video for a quick overview of the altimeter
-https://www.youtube.com/watch?v=tyCT6ZZCWO4&list=PLO0Ii5XaiIxMYbjLbvyxhEKWwRNFykAlW
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tyCT6ZZCWO4&list=PLO0Ii5XaiIxMYbjLbvyxhEKWwRNFykAlW/0.jpg)](https://www.youtube.com/watch?v=tyCT6ZZCWO4&list=PLO0Ii5XaiIxMYbjLbvyxhEKWwRNFykAlW)
 
